@@ -12,7 +12,7 @@
  4. Click **RESET** to go back to the start time any time
  5. When time runs out, you’ll get an alert to switch tasks or rest!
  ## 📸 Screenshot
- ![Pomodoro Timer Screenshot]()
+ ![Pomodoro Timer Screenshot](Screenshot_24-6-2026_173057_127.0.0.1.jpeg)
  ---
  ##  Made With
  - Plain HTML
