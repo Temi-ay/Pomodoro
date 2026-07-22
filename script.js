@@ -99,7 +99,7 @@ startBtn.addEventListener("click", () =>{
 stopBtn.addEventListener("click", () =>{
     if(currentTimer){
         clearInterval(myInterval)
-        timerMag.style.display = "none"
+        timerMsg.style.display = "none"
     }else{
         timerMsg.style.display = "block"
     }
