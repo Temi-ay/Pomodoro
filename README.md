@@ -15,5 +15,5 @@
  Plain HTML
  Simple CSS styling
  JavaScript
-
-## 
+## Contributors
+-[Grace](https://github.com/Temi-ay)
