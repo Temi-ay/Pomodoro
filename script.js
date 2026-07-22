@@ -91,7 +91,7 @@ function startTimer(timerDisplay){
 startBtn.addEventListener("click", () =>{
     if(currentTimer){
         startTimer(currentTimer)
-        timerMag.style.display = "none"
+        timerMsg.style.display = "none"
     }else{
         timerMsg.style.display = "block"
     }
